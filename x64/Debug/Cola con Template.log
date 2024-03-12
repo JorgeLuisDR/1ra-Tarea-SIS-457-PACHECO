@@ -1,0 +1,13 @@
+﻿  Cola.cpp
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,68): warning C4305:         with
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,68): warning C4305:         [
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,68): warning C4305:             T=float
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,68): warning C4305:         ]
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,60): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,60): warning C4305:         with
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,60): warning C4305:         [
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,60): warning C4305:             T=float
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.cpp(42,60): warning C4305:         ]
+C:\Users\Administrator\source\repos\Cola con Template\Cola con Template\Cola.h(66,1): warning C4715: 'Cola<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::pop': not all control paths return a value
+  Cola con Template.vcxproj -> C:\Users\Administrator\source\repos\Cola con Template\x64\Debug\Cola con Template.exe
